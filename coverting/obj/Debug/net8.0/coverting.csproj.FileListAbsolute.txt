@@ -1,0 +1,14 @@
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\bin\Debug\net8.0\coverting.exe
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\bin\Debug\net8.0\coverting.deps.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\bin\Debug\net8.0\coverting.runtimeconfig.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\bin\Debug\net8.0\coverting.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\bin\Debug\net8.0\coverting.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.AssemblyInfoInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.AssemblyInfo.cs
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.csproj.CoreCompileInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\refint\coverting.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\coverting.genruntimeconfig.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\coverting\obj\Debug\net8.0\ref\coverting.dll

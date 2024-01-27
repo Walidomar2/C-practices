@@ -1,0 +1,14 @@
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\bin\Debug\net8.0\oop_test.exe
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\bin\Debug\net8.0\oop_test.deps.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\bin\Debug\net8.0\oop_test.runtimeconfig.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\bin\Debug\net8.0\oop_test.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\bin\Debug\net8.0\oop_test.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.AssemblyInfoInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.AssemblyInfo.cs
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.csproj.CoreCompileInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\refint\oop_test.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\oop_test.genruntimeconfig.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\oop_test\obj\Debug\net8.0\ref\oop_test.dll

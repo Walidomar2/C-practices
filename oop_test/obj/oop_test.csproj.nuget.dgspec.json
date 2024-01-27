@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\courses\\c# .net core 8 with ms sql complete beginner to master\\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\\practices\\oop_test\\oop_test.csproj": {}
+  },
+  "projects": {
+    "D:\\courses\\c# .net core 8 with ms sql complete beginner to master\\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\\practices\\oop_test\\oop_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\courses\\c# .net core 8 with ms sql complete beginner to master\\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\\practices\\oop_test\\oop_test.csproj",
+        "projectName": "oop_test",
+        "projectPath": "D:\\courses\\c# .net core 8 with ms sql complete beginner to master\\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\\practices\\oop_test\\oop_test.csproj",
+        "packagesPath": "C:\\Users\\mezoo\\.nuget\\packages\\",
+        "outputPath": "D:\\courses\\c# .net core 8 with ms sql complete beginner to master\\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\\practices\\oop_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mezoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

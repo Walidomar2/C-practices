@@ -1,0 +1,14 @@
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\bin\Debug\net8.0\Expressions.exe
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\bin\Debug\net8.0\Expressions.deps.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\bin\Debug\net8.0\Expressions.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\bin\Debug\net8.0\Expressions.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\Expressions\obj\Debug\net8.0\ref\Expressions.dll
