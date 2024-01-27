@@ -13,27 +13,21 @@ namespace DateApp{
         private ushort _month;
         private uint _year;
         
-        public Date(): this(01,01,0001)
-        {
-        }
-
-        public Date(ushort day, ushort month, uint year)
-        {
-            var isLeap = ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0)));
-
-            if(year >= 1 && year<=9999 && month>=1 && month<=12)
+         private void valuesValidation(ushort dayValue, ushort monthValue, uint yearValue)
+      {
+        var isLeap = ((yearValue % 4 == 0) && ((yearValue % 100 != 0) || (yearValue % 400 == 0)));
+            if(yearValue >= 1 && yearValue<=9999 && monthValue>=1 && monthValue<=12)
             {
                 int[] Days = isLeap ? DaysToMonths366 : DaysToMonths365;
-
-                if(day>= 1 && day <= Days[month])
+                if(dayValue >= 1 && dayValue <= Days[monthValue])
                 {
-                    _day = day;
-                    _month = month;
-                    _year = year;
+                    _day = dayValue;
+                    _month = monthValue;
+                    _year = yearValue;
                 }
                 else
                 {
-                    Console.WriteLine("Please Enter a valid numbers you are in a default date now.");
+                    Console.WriteLine("Please Enter a valid numbers you are in a default date now........");
                     _day = 01;
                     _month = 01;
                     _year = 0001;
@@ -41,17 +35,24 @@ namespace DateApp{
             }
             else
             {
-                Console.WriteLine("Please Enter a valid numbers you are in a default date now.");
+                Console.WriteLine("you are in a default date now.");
                 _day = 01;
                 _month = 01;
                 _year = 0001;
             }
+      }
+
+
+        public Date(): this(01,01,0001)
+        {
         }
 
-         public string getDate()
+        public Date(ushort day, ushort month, uint year)
         {
-            return $"the date: {_day.ToString().PadLeft(2,'0')} / {_month.ToString().PadLeft(2,'0')} / {_year.ToString().PadLeft(4,'0')}";
+           // Console.Write($"{day}   {month}    {year}");
+           valuesValidation(day,month,year);
         }
+
 
         public uint Year
         {
@@ -62,19 +63,25 @@ namespace DateApp{
             }
             set
             {
-                _year = value;
+                if(value >= 1 && value <= 9999)
+                    _year = value;
+                else
+                   Console.WriteLine("Please Enter a Valid year value"); 
             }
         }
 
-        public ushort month
+        public ushort Month
         {
             get
             {
                 return _month;
             }
             set
-            {
-                _month = value;
+            {   
+                if(value >= 1 && value <= 12)
+                    _month = value;
+                else
+                    Console.WriteLine("Please Enter a Valid month value");
             }
         }
 
@@ -86,22 +93,13 @@ namespace DateApp{
             }
             set
             {
-            var isLeap = ((_year % 4 == 0) && ((_year % 100 != 0) || (_year % 400 == 0)));
-            if(_year >= 1 && _year<=9999 && _month>=1 && _month<=12)
-            {
-                int[] Days = isLeap ? DaysToMonths366 : DaysToMonths365;
-
-                if(value>= 1 && value <= Days[month])
-                {
-                    _day = value;
-                }
-                else
-                {
-                    Console.WriteLine("Please Enter a valid numbers you are in a default date now.");
-                    _day = 01;
-                }
+                valuesValidation(value,_month,_year);
             }
         }
-      }
+
+          public string getDate()
+        {
+            return $"the date: {Day.ToString().PadLeft(2,'0')} / {Month.ToString().PadLeft(2,'0')} / {Year.ToString().PadLeft(4,'0')}";
+        }
     }
 }
