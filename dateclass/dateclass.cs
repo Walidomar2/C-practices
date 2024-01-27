@@ -19,7 +19,7 @@ namespace DateApp{
 
         public Date(ushort day, ushort month, uint year)
         {
-            var isLeap = ((_year % 4 == 0) && ((_year % 100 != 0) || (_year % 400 == 0)));
+            var isLeap = ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0)));
 
             if(year >= 1 && year<=9999 && month>=1 && month<=12)
             {
@@ -53,34 +53,55 @@ namespace DateApp{
             return $"the date: {_day.ToString().PadLeft(2,'0')} / {_month.ToString().PadLeft(2,'0')} / {_year.ToString().PadLeft(4,'0')}";
         }
 
-        public void setDay(ushort day)
+        public uint Year
         {
-            _day = day;
+            get
+            {
+                return _year;
+
+            }
+            set
+            {
+                _year = value;
+            }
         }
 
-        public ushort getDay()
+        public ushort month
         {
-            return _day;
+            get
+            {
+                return _month;
+            }
+            set
+            {
+                _month = value;
+            }
         }
 
-        public void setMonth(ushort month)
+        public ushort Day
         {
-            _month = month;
-        }
+            get
+            {
+                return _day;
+            }
+            set
+            {
+            var isLeap = ((_year % 4 == 0) && ((_year % 100 != 0) || (_year % 400 == 0)));
+            if(_year >= 1 && _year<=9999 && _month>=1 && _month<=12)
+            {
+                int[] Days = isLeap ? DaysToMonths366 : DaysToMonths365;
 
-        public ushort getMonth()
-        {
-            return _month;
+                if(value>= 1 && value <= Days[month])
+                {
+                    _day = value;
+                }
+                else
+                {
+                    Console.WriteLine("Please Enter a valid numbers you are in a default date now.");
+                    _day = 01;
+                }
+            }
         }
-
-        public void setYear(uint year)
-        {
-            _year = year;
-        }
-
-        public uint getYear()
-        {
-            return _year;
-        }
+      }
     }
 }

@@ -10,7 +10,8 @@ namespace DateApp
 
             Console.WriteLine(d1.getDate());
 
-            d1.setDay(4);
+            d1.Day = 4;
+            d1.month = 6;
             Console.WriteLine(d1.getDate());
         }
     }

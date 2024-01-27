@@ -12,3 +12,4 @@ D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NE
 D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\dateclass\obj\Debug\net8.0\dateclass.pdb
 D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\dateclass\obj\Debug\net8.0\dateclass.genruntimeconfig.cache
 D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\dateclass\obj\Debug\net8.0\ref\dateclass.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\dateclass\obj\Debug\net8.0\dateclass.sourcelink.json
