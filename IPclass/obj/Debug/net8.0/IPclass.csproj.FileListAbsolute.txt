@@ -1,0 +1,15 @@
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\bin\Debug\net8.0\IPclass.exe
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\bin\Debug\net8.0\IPclass.deps.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\bin\Debug\net8.0\IPclass.runtimeconfig.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\bin\Debug\net8.0\IPclass.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\bin\Debug\net8.0\IPclass.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.AssemblyInfoInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.AssemblyInfo.cs
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.csproj.CoreCompileInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.sourcelink.json
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\refint\IPclass.dll
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\IPclass.genruntimeconfig.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\IPclass\obj\Debug\net8.0\ref\IPclass.dll
