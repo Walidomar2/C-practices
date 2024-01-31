@@ -1,0 +1,106 @@
+using System;
+using System.Data;
+using Dapper;
+using Microsoft.Data.SqlClient;
+namespace App
+{
+    class Program
+    {
+        static void Main(String[] args)
+        {
+
+             Computer myComputer = new Computer() 
+            {
+                Motherboard = "Z690",
+                HasWifi = true,
+                HasLTE = false,
+                ReleaseDate = DateTime.Now,
+                Price = 943.87m,
+                VideoCard = "RTX 2060"
+            };
+
+
+            string connectionString = "Server=localhost;Database=DotNetCourseDatabase;TrustServerCertificate=true;Trusted_Connection=true;";
+            IDbConnection dbConnection = new SqlConnection(connectionString);
+
+            string getDateQuery = "SELECT GETDATE()";
+            DateTime timeNow = dbConnection.QuerySingle<DateTime>(getDateQuery);
+
+            Console.WriteLine(timeNow);
+
+
+             string sql = @"INSERT INTO TutorialAppSchema.Computer (
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                ReleaseDate,
+                Price,
+                VideoCard
+            ) VALUES ('" + myComputer.Motherboard 
+                    + "','" + myComputer.HasWifi
+                    + "','" + myComputer.HasLTE
+                    + "','" + myComputer.ReleaseDate
+                    + "','" + myComputer.Price
+                    + "','" + myComputer.VideoCard
+            + "')";
+
+            var result = dbConnection.Execute(sql);
+
+            Console.WriteLine($"Number of rows affected {result}");
+
+            string sql_2 = @"SELECT
+                Computer.ComputerId, 
+                Computer.Motherboard,
+                Computer.CPUCores,
+                Computer.HasWifi,
+                Computer.HasLTE,
+                Computer.ReleaseDate,
+                Computer.Price,
+                Computer.VideoCard 
+                FROM TutorialAppSchema.Computer;";
+
+                IEnumerable<Computer> computers = dbConnection.Query<Computer>(sql_2);
+
+                 foreach(Computer singleComputer in computers)
+                {
+                    Console.WriteLine("'" + singleComputer.ComputerId 
+                        + "','" + singleComputer.Motherboard
+                        + "','" + singleComputer.CPUCores
+                        + "','" + singleComputer.HasWifi
+                        + "','" + singleComputer.HasLTE
+                        + "','" + singleComputer.ReleaseDate.ToString("yyyy-MM-dd")
+                        + "','" + singleComputer.Price
+                        + "','" + singleComputer.VideoCard + "'");
+                }
+        }
+    }
+}
+
+ public class Computer
+    {
+        // private string _motherboard;
+        public int ComputerId { get; set; }
+        public string Motherboard { get; set; }
+        public int? CPUCores { get; set; }
+        public bool HasWifi { get; set; }
+        public bool HasLTE { get; set; }
+        public DateTime ReleaseDate { get; set; }
+        public decimal Price { get; set; }
+        public string VideoCard { get; set; }
+
+        public Computer()
+        {
+            if (VideoCard == null)
+            {
+                VideoCard = "";
+            }
+            if (Motherboard == null)
+            {
+                Motherboard = "";
+            }
+            if (CPUCores == null)
+            {
+                CPUCores = 0;
+            }
+        }
+    }
