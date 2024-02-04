@@ -14,7 +14,7 @@ namespace App
             Console.WriteLine("\n------------------------------------------------------------------");
             var developer_1 = new Developer(100,"Walid Omar",190,20,true);
             Console.WriteLine(developer_1);
-
+            
         }
     }
 }

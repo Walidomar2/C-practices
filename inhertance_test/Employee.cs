@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace App
 {
-    public class Employee
+    abstract public class Employee
     {
         private const int _minLoggedHours = 176;
         private const decimal _overTimeRate = 1.25m;
