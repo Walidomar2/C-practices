@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "generic_delegate/1.0.0": {
+        "runtime": {
+          "generic_delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "generic_delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
