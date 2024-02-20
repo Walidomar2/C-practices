@@ -1,0 +1,7 @@
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\courses\c# .net core 8 with ms sql complete beginner to master\Udemy - C# .NET Core 8 with MS SQL Complete Beginner to Master 2023 2023-8\practices\LINQ_practice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\bin\Debug\employee_paginating.exe.config
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\bin\Debug\employee_paginating.exe
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\bin\Debug\employee_paginating.pdb
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\obj\Debug\employee_paginating.csproj.AssemblyReference.cache
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\obj\Debug\employee_paginating.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\obj\Debug\employee_paginating.exe
+D:\courses\c# .net\C# .NET\practices\LINQ_practice\employee_paginating\obj\Debug\employee_paginating.pdb
