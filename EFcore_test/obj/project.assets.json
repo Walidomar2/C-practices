@@ -3099,11 +3099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\courses\\c# .net\\C# .NET\\practices\\EFcore_test\\EFcore_test.csproj",
+      "projectUniqueName": "D:\\courses\\c# .net\\C# .NET\\practices\\EFCore_test\\EFcore_test.csproj",
       "projectName": "EFcore_test",
-      "projectPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EFcore_test\\EFcore_test.csproj",
+      "projectPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EFCore_test\\EFcore_test.csproj",
       "packagesPath": "C:\\Users\\mezoo\\.nuget\\packages\\",
-      "outputPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EFcore_test\\obj\\",
+      "outputPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EFCore_test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mezoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3126,6 +3126,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3161,7 +3166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

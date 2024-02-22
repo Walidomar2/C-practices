@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qprp7aXpr2+EuwAPUWCQbr8SIR8Hv4CsSDgDL7M3gAKGbX5BVMchaIZgLgytxZE76lWac9EuaBF1VR0YzF38Og==",
+  "dgSpecHash": "hI3AFueog1dWwOtACP4wnZpBMeRm2UMCnTd0rrzLgafjlluR/4AEQOACde98rN8tpwb3gg5/78+b9reiOBjJ2A==",
   "success": true,
-  "projectFilePath": "D:\\courses\\c# .net\\C# .NET\\practices\\EFcore_test\\EFcore_test.csproj",
+  "projectFilePath": "D:\\courses\\c# .net\\C# .NET\\practices\\EFCore_test\\EFcore_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mezoo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mezoo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

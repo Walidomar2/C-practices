@@ -22,21 +22,30 @@ namespace App
                 Holder = "Walid",
                 Balance = 11000,
             };
-            
+
             EFcore.EFCore_InsertData(wallet_1);
             EFcore.EFCore_RetriveData();
 
 
             Console.WriteLine("\n--------------- Updating Data ----------------------");
-            EFcore.EFCore_UpdateDate(1, "Omar", 5000);
-            EFcore.EFCore_UpdateDate(2,7000);
+            EFcore.EFCore_UpdateDate(1, "Ahmed", 5000);
+            EFcore.EFCore_UpdateDate(2, 7000);
             EFcore.EFCore_RetriveData();
 
             Console.WriteLine("\n--------------- Deleting Data ----------------------");
 
-            EFcore.EFCore_DeleteData(3);
+            EFcore.EFCore_DeleteData(wallet_1.Id);
             EFcore.EFCore_RetriveData();
 
+            Console.WriteLine("\n--------------- Inserting Data ----------------------");
+            var wallet_2 = new Wallet()
+            {
+                Holder = "Walid",
+                Balance = 11000,
+            };
+
+            EFcore.EFCore_InsertData(wallet_2);
+            EFcore.EFCore_RetriveData();
 
             Console.ReadKey();
         }

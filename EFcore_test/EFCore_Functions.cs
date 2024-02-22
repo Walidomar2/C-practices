@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
+﻿using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 
 namespace App
 {
@@ -89,9 +91,15 @@ namespace App
             using (var context = new Appdbcontext())
             {
                 var wallet = context.Wallets.Single( x => x.Id == id);
-                context.Wallets.Remove(wallet); 
-
+                var ResetId = wallet.Id - 1;    
+                context.Wallets.Remove(wallet);
                 context.SaveChanges();
+
+                var pDeletedId = new SqlParameter("@deletedId", System.Data.SqlDbType.Int);
+                pDeletedId.Value = ResetId;
+
+                context.Database.ExecuteSqlRaw("DBCC CHECKIDENT ('Wallets', RESEED, @deletedId);",pDeletedId);
+
             }
         }
     }

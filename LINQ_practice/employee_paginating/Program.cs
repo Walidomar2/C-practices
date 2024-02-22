@@ -38,8 +38,7 @@ namespace employee_paginating
 
             result.Print($"showing employees {startRecord} - {endRecord}");
 
-            Console.ReadKey();1
-
+            Console.ReadKey();
         }
     }
 }
