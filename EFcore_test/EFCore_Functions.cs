@@ -91,12 +91,13 @@ namespace App
             using (var context = new Appdbcontext())
             {
                 var wallet = context.Wallets.Single( x => x.Id == id);
-                var ResetId = wallet.Id - 1;    
                 context.Wallets.Remove(wallet);
                 context.SaveChanges();
 
+                var maxId = context.Wallets.Max(x => (int?)x.Id);
+
                 var pDeletedId = new SqlParameter("@deletedId", System.Data.SqlDbType.Int);
-                pDeletedId.Value = ResetId;
+                pDeletedId.Value = maxId;
 
                 context.Database.ExecuteSqlRaw("DBCC CHECKIDENT ('Wallets', RESEED, @deletedId);",pDeletedId);
 
