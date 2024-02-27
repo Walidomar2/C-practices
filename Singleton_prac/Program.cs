@@ -1,4 +1,4 @@
-﻿using SingletonApp_NotThreadSafe;
+﻿using SingletonApp;
 using System;
 
 class Program

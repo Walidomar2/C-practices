@@ -1,4 +1,4 @@
-﻿namespace SingletonApp_NotThreadSafe
+﻿namespace SingletonApp
 {
     public class LogMessages
     {

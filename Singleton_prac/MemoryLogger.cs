@@ -1,4 +1,4 @@
-﻿namespace SingletonApp_NotThreadSafe
+﻿namespace SingletonApp
 {
     public class MemoryLogger
     {
@@ -7,6 +7,7 @@
         private int _ErrorCount;
 
         private static MemoryLogger _instance = null!;
+        private static readonly object _instanceLock = new object();
 
         private List<LogMessages> _logs = new List<LogMessages>();
         public IReadOnlyCollection<LogMessages> Logs => _logs;
@@ -17,9 +18,15 @@
         {
             get
             {
-                if (_instance == null)
+                if (_instance == null) // for performance 
                 {
-                    _instance = new MemoryLogger();
+                    lock (_instanceLock)    // if you have many threads 
+                    {
+                        if (_instance == null)
+                        {
+                            _instance = new MemoryLogger();
+                        }
+                    }
                 }
 
                 return _instance;
@@ -62,4 +69,16 @@
         }
     }
 }
-    
+
+
+// Eager Loading technique    
+/*
+ * if i don't want to do locking or any checks you can define the _instance at startup 
+ * 
+ * private static readonly MemoryLogger _instance = new MemoryLogger;
+ * 
+ * public static MemoryLogger GetLogger => _instance;
+ * 
+ * 
+ * 
+ */
