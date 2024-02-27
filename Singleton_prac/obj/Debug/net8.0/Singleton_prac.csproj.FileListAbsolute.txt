@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\bin\Debug\net8.0\Singleton_prac.exe
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\bin\Debug\net8.0\Singleton_prac.deps.json
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\bin\Debug\net8.0\Singleton_prac.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\bin\Debug\net8.0\Singleton_prac.dll
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\bin\Debug\net8.0\Singleton_prac.pdb
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.dll
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\refint\Singleton_prac.dll
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.pdb
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\Singleton_prac.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\Singleton_prac\obj\Debug\net8.0\ref\Singleton_prac.dll

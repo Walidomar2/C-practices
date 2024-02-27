@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Singleton_prac/1.0.0": {
+        "runtime": {
+          "Singleton_prac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singleton_prac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
