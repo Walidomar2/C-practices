@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\bin\Debug\net8.0\FactoryDesign_SimpleFactory.exe
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\bin\Debug\net8.0\FactoryDesign_SimpleFactory.deps.json
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\bin\Debug\net8.0\FactoryDesign_SimpleFactory.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\bin\Debug\net8.0\FactoryDesign_SimpleFactory.dll
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\bin\Debug\net8.0\FactoryDesign_SimpleFactory.pdb
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.dll
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\refint\FactoryDesign_SimpleFactory.dll
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.pdb
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\FactoryDesign_SimpleFactory.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\FactoryDesign_prac\FactoryDesign_SimpleFactory\obj\Debug\net8.0\ref\FactoryDesign_SimpleFactory.dll

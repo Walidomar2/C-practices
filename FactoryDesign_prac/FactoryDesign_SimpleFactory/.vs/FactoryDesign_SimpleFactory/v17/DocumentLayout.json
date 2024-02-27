@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|d:\\courses\\c# .net\\c# .net\\practices\\factorydesign_prac\\factorydesign_simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|d:\\courses\\c# .net\\c# .net\\practices\\factorydesign_prac\\factorydesign_simplefactory\\dishfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|solutionrelative:dishfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|d:\\courses\\c# .net\\c# .net\\practices\\factorydesign_prac\\factorydesign_simplefactory\\appetizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|solutionrelative:appetizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|d:\\courses\\c# .net\\c# .net\\practices\\factorydesign_prac\\factorydesign_simplefactory\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|solutionrelative:maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|d:\\courses\\c# .net\\c# .net\\practices\\factorydesign_prac\\factorydesign_simplefactory\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|d:\\courses\\c# .net\\c# .net\\practices\\factorydesign_prac\\factorydesign_simplefactory\\desserts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827FF128-DEF3-44F6-A04E-37428D4F38F6}|FactoryDesign_SimpleFactory.csproj|solutionrelative:desserts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 661,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwDYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:14:12.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DishFactory.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\DishFactory.cs",
+              "RelativeDocumentMoniker": "DishFactory.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\DishFactory.cs",
+              "RelativeToolTip": "DishFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:34:12.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\MainDish.cs",
+              "RelativeDocumentMoniker": "MainDish.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\MainDish.cs",
+              "RelativeToolTip": "MainDish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:30:55.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Desserts.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Desserts.cs",
+              "RelativeDocumentMoniker": "Desserts.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Desserts.cs",
+              "RelativeToolTip": "Desserts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:27:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Dish.cs",
+              "RelativeToolTip": "Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:15:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appetizers.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Appetizers.cs",
+              "RelativeDocumentMoniker": "Appetizers.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\FactoryDesign_prac\\FactoryDesign_SimpleFactory\\Appetizers.cs",
+              "RelativeToolTip": "Appetizers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:20:29.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
