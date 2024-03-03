@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|d:\\courses\\c# .net\\c# .net\\practices\\attributes_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|d:\\courses\\c# .net\\c# .net\\practices\\attributes_test\\skillesattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|solutionrelative:skillesattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|d:\\courses\\c# .net\\c# .net\\practices\\attributes_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|d:\\courses\\c# .net\\c# .net\\practices\\attributes_test\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0071F675-3F5D-4CA2-A3F6-4963A9190D68}|Attributes_test.csproj|solutionrelative:errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 342,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\Errors.cs",
+              "RelativeDocumentMoniker": "Errors.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\Errors.cs",
+              "RelativeToolTip": "Errors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:47:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillesAttribute.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\SkillesAttribute.cs",
+              "RelativeDocumentMoniker": "SkillesAttribute.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\SkillesAttribute.cs",
+              "RelativeToolTip": "SkillesAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:42:47.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:39:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Attributes_test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwD8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:36:21.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

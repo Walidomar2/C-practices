@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\Attributes_test\bin\Debug\net8.0\Attributes_test.exe
+D:\courses\c# .net\C# .NET\practices\Attributes_test\bin\Debug\net8.0\Attributes_test.deps.json
+D:\courses\c# .net\C# .NET\practices\Attributes_test\bin\Debug\net8.0\Attributes_test.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\Attributes_test\bin\Debug\net8.0\Attributes_test.dll
+D:\courses\c# .net\C# .NET\practices\Attributes_test\bin\Debug\net8.0\Attributes_test.pdb
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.dll
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\refint\Attributes_test.dll
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.pdb
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\Attributes_test.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\Attributes_test\obj\Debug\net8.0\ref\Attributes_test.dll
