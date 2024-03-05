@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\Queue_prac\bin\Debug\net8.0\Queue_prac.exe
+D:\courses\c# .net\C# .NET\practices\Queue_prac\bin\Debug\net8.0\Queue_prac.deps.json
+D:\courses\c# .net\C# .NET\practices\Queue_prac\bin\Debug\net8.0\Queue_prac.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\Queue_prac\bin\Debug\net8.0\Queue_prac.dll
+D:\courses\c# .net\C# .NET\practices\Queue_prac\bin\Debug\net8.0\Queue_prac.pdb
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.dll
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\refint\Queue_prac.dll
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.pdb
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\Queue_prac.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\Queue_prac\obj\Debug\net8.0\ref\Queue_prac.dll
