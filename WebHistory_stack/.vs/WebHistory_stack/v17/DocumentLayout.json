@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\WebHistory_stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}|WebHistory_stack.csproj|d:\\courses\\c# .net\\c# .net\\practices\\webhistory_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}|WebHistory_stack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}|WebHistory_stack.csproj|d:\\courses\\c# .net\\c# .net\\practices\\webhistory_stack\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}|WebHistory_stack.csproj|solutionrelative:url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 699,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Url.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\WebHistory_stack\\Url.cs",
+              "RelativeDocumentMoniker": "Url.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\WebHistory_stack\\Url.cs",
+              "RelativeToolTip": "Url.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:23:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\WebHistory_stack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\WebHistory_stack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:22:43.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

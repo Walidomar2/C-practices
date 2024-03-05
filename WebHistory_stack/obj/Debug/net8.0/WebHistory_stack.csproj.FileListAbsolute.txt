@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\bin\Debug\net8.0\WebHistory_stack.exe
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\bin\Debug\net8.0\WebHistory_stack.deps.json
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\bin\Debug\net8.0\WebHistory_stack.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\bin\Debug\net8.0\WebHistory_stack.dll
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\bin\Debug\net8.0\WebHistory_stack.pdb
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.dll
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\refint\WebHistory_stack.dll
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.pdb
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\WebHistory_stack.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\WebHistory_stack\obj\Debug\net8.0\ref\WebHistory_stack.dll

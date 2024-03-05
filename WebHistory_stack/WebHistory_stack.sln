@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHistory_stack", "WebHistory_stack.csproj", "{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDACED64-A8F5-408C-B2FE-5EEABF0635FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D515CFDB-E79D-4912-9BAC-01136C58375C}
+	EndGlobalSection
+EndGlobal
