@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\bin\Debug\net8.0\linkedlist_prac.exe
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\bin\Debug\net8.0\linkedlist_prac.deps.json
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\bin\Debug\net8.0\linkedlist_prac.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\bin\Debug\net8.0\linkedlist_prac.dll
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\bin\Debug\net8.0\linkedlist_prac.pdb
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.dll
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\refint\linkedlist_prac.dll
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.pdb
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\linkedlist_prac.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\linkedlist_prac\obj\Debug\net8.0\ref\linkedlist_prac.dll
