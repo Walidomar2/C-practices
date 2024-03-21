@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\models\\orderwithdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:models\\orderwithdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_mappingcode\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D76A53-256C-4754-9B13-CB731B64BDD4}|EF_MappingCode.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderWithDetailsView.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\OrderWithDetailsView.cs",
+              "RelativeDocumentMoniker": "Models\\OrderWithDetailsView.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\OrderWithDetailsView.cs",
+              "RelativeToolTip": "Models\\OrderWithDetailsView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:19:59.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:07:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:06:39.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:04:24.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "global.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\global.cs",
+              "RelativeDocumentMoniker": "global.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\global.cs",
+              "RelativeToolTip": "global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:58:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:57:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_MappingCode\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:52:32.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
