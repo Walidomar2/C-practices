@@ -9,6 +9,8 @@ namespace EF_MappingCode.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<OrderWithDetailsView> OrderWithDetails { get; set; }
 
+        //optional step
+        public DbSet<OrderBill> BillOrders { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>()
@@ -26,6 +28,10 @@ namespace EF_MappingCode.Data
             // The view has no keys 
             modelBuilder.Entity<OrderWithDetailsView>()
                 .ToView("OrderWithDetailsView")
+                .HasNoKey();
+
+            modelBuilder.Entity<OrderBill>()
+                .ToFunction("GetOrderBill")
                 .HasNoKey();
 
             base.OnModelCreating(modelBuilder);

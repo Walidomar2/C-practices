@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF_MappingCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0ded21f9e6e166d548951f89a81c229876dcd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0e55f2ef77977b4b09c32fbb8fe9c1fd885396b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF_MappingCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF_MappingCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
