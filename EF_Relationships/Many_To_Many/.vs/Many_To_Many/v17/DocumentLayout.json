@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Migrations\\20240328220524_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240328220524_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\models\\posttags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:models\\posttags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240328220524_test.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Migrations\\20240328220524_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240328220524_test.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Migrations\\20240328220524_test.cs",
+              "RelativeToolTip": "Migrations\\20240328220524_test.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:05:24.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostTags.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Models\\PostTags.cs",
+              "RelativeDocumentMoniker": "Models\\PostTags.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Models\\PostTags.cs",
+              "RelativeToolTip": "Models\\PostTags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:56:18.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:43:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T21:13:10.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "global.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\global.cs",
+              "RelativeDocumentMoniker": "global.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\global.cs",
+              "RelativeToolTip": "global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:10:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:10:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:10:21.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:09:26.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
