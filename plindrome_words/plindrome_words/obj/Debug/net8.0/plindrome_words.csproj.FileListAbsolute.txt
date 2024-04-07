@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\bin\Debug\net8.0\plindrome_words.exe
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\bin\Debug\net8.0\plindrome_words.deps.json
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\bin\Debug\net8.0\plindrome_words.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\bin\Debug\net8.0\plindrome_words.dll
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\bin\Debug\net8.0\plindrome_words.pdb
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.dll
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\refint\plindrome_words.dll
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.pdb
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\plindrome_words.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\plindrome_words\plindrome_words\obj\Debug\net8.0\ref\plindrome_words.dll

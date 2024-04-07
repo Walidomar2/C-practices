@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Migrations\\20240328220524_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240328220524_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\migrations\\20240328220524_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|solutionrelative:migrations\\20240328220524_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D51A0861-22B4-4266-A4C9-73DDE13D3E9F}|Many_To_Many.csproj|d:\\courses\\c# .net\\c# .net\\practices\\ef_relationships\\many_to_many\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "Migrations\\20240328220524_test.cs",
               "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\EF_Relationships\\Many_To_Many\\Migrations\\20240328220524_test.cs",
               "RelativeToolTip": "Migrations\\20240328220524_test.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwDEAAAATAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T22:05:24.79Z",
               "EditorCaption": ""
@@ -77,8 +77,7 @@
               "RelativeToolTip": "Models\\PostTags.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:56:18.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:56:18.543Z"
             },
             {
               "$type": "Document",
@@ -90,8 +89,7 @@
               "RelativeToolTip": "Models\\Tag.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:43:54.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:43:54.823Z"
             },
             {
               "$type": "Document",
@@ -103,8 +101,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-28T21:13:10.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:13:10.66Z"
             },
             {
               "$type": "Document",
@@ -116,8 +113,7 @@
               "RelativeToolTip": "global.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:10:47.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:10:47.93Z"
             },
             {
               "$type": "Document",
@@ -129,8 +125,7 @@
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:10:39.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:10:39.954Z"
             },
             {
               "$type": "Document",
@@ -142,8 +137,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAwwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:10:21.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:10:21.329Z"
             },
             {
               "$type": "Document",
@@ -155,8 +149,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:09:26.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:09:26.475Z"
             },
             {
               "$type": "Bookmark",
