@@ -1,4 +1,5 @@
 using ASP_Core_Middlewares.Data;
+using ASP_Core_Middlewares.Middlewares;
 using ASP_Core_Middlewares.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,8 +20,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseMiddleware<ProfilingMiddelware>();
+app.UseMiddleware<RateLimitingMiddleware>(); 
 
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 app.MapControllers();
