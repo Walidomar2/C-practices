@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|d:\\courses\\c# .net\\c# .net\\practices\\asp_core_middlewares\\asp_core_middlewares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|solutionrelative:asp_core_middlewares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|d:\\courses\\c# .net\\c# .net\\practices\\asp_core_middlewares\\asp_core_middlewares\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|solutionrelative:asp_core_middlewares\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|d:\\courses\\c# .net\\c# .net\\practices\\asp_core_middlewares\\asp_core_middlewares\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|solutionrelative:asp_core_middlewares\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|d:\\courses\\c# .net\\c# .net\\practices\\asp_core_middlewares\\asp_core_middlewares\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B08896-3A88-4412-9C42-7C11CFD01AC7}|ASP_Core_Middlewares\\ASP_Core_Middlewares.csproj|solutionrelative:asp_core_middlewares\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASP_Core_Middlewares\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASP_Core_Middlewares\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:00:07.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "global.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\global.cs",
+              "RelativeDocumentMoniker": "ASP_Core_Middlewares\\global.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\global.cs",
+              "RelativeToolTip": "ASP_Core_Middlewares\\global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:58:36.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASP_Core_Middlewares\\Models\\Product.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\Models\\Product.cs",
+              "RelativeToolTip": "ASP_Core_Middlewares\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:57:36.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_Core_Middlewares\\Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\ASP_Core_Middlewares\\ASP_Core_Middlewares\\Program.cs",
+              "RelativeToolTip": "ASP_Core_Middlewares\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:56:04.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
