@@ -1,7 +1,3 @@
-using ASP_Core_Middlewares.Data;
-using ASP_Core_Middlewares.Middlewares;
-using ASP_Core_Middlewares.Repository;
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();

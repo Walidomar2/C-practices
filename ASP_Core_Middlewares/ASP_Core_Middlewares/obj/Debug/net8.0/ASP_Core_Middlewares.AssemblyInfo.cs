@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_Core_Middlewares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f73591939b9b829157888d63f923f8eeecef78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bccb896d95c75c9bd790537aa824b9955a916e5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_Core_Middlewares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_Core_Middlewares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

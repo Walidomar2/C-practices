@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-namespace ASP_Core_Middlewares.Controllers
+﻿namespace ASP_Core_Middlewares.Controllers
 {
     [Route("api/product")]
     [ApiController]
