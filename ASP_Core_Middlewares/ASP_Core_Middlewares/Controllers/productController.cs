@@ -2,6 +2,7 @@
 {
     [Route("api/product")]
     [ApiController]
+    [Authorize]
     public class productController : ControllerBase
     {
         private readonly IProduct _iproduct;

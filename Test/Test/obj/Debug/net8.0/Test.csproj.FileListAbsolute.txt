@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\Test\Test\bin\Debug\net8.0\Test.exe
+D:\courses\c# .net\C# .NET\practices\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\courses\c# .net\C# .NET\practices\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\Test\Test\bin\Debug\net8.0\Test.dll
+D:\courses\c# .net\C# .NET\practices\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.dll
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\Test\Test\obj\Debug\net8.0\ref\Test.dll
