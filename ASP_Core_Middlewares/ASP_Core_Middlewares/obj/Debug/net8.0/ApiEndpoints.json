@@ -77,5 +77,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASP_Core_Middlewares.Controllers.UsersController",
+    "Method": "AuthenticateUser",
+    "RelativePath": "Users/auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestModel",
+        "Type": "ASP_Core_Middlewares.Authentication.AuthenticationRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

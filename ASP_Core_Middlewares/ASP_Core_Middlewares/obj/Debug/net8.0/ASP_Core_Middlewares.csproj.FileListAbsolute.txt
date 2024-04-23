@@ -136,3 +136,4 @@ D:\courses\c# .net\C# .NET\practices\ASP_Core_Middlewares\ASP_Core_Middlewares\o
 D:\courses\c# .net\C# .NET\practices\ASP_Core_Middlewares\ASP_Core_Middlewares\obj\Debug\net8.0\ASP_Core_Middlewares.pdb
 D:\courses\c# .net\C# .NET\practices\ASP_Core_Middlewares\ASP_Core_Middlewares\obj\Debug\net8.0\ASP_Core_Middlewares.genruntimeconfig.cache
 D:\courses\c# .net\C# .NET\practices\ASP_Core_Middlewares\ASP_Core_Middlewares\obj\Debug\net8.0\ref\ASP_Core_Middlewares.dll
+D:\courses\c# .net\C# .NET\practices\ASP_Core_Middlewares\ASP_Core_Middlewares\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
