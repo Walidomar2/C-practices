@@ -1,0 +1,14 @@
+D:\courses\C#(ITI)\fileSystem\fileSystem\bin\Debug\net8.0\fileSystem.exe
+D:\courses\C#(ITI)\fileSystem\fileSystem\bin\Debug\net8.0\fileSystem.deps.json
+D:\courses\C#(ITI)\fileSystem\fileSystem\bin\Debug\net8.0\fileSystem.runtimeconfig.json
+D:\courses\C#(ITI)\fileSystem\fileSystem\bin\Debug\net8.0\fileSystem.dll
+D:\courses\C#(ITI)\fileSystem\fileSystem\bin\Debug\net8.0\fileSystem.pdb
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.AssemblyInfoInputs.cache
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.AssemblyInfo.cs
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.csproj.CoreCompileInputs.cache
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.dll
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\refint\fileSystem.dll
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.pdb
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\fileSystem.genruntimeconfig.cache
+D:\courses\C#(ITI)\fileSystem\fileSystem\obj\Debug\net8.0\ref\fileSystem.dll
