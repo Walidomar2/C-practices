@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\C#(ITI)\\GeneratingRandoms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89CE6A7C-DF44-4D2B-A268-C1144F1D144B}|GeneratingRandoms\\GeneratingRandoms.csproj|d:\\courses\\c#(iti)\\generatingrandoms\\generatingrandoms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CE6A7C-DF44-4D2B-A268-C1144F1D144B}|GeneratingRandoms\\GeneratingRandoms.csproj|solutionrelative:generatingrandoms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 886,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\C#(ITI)\\GeneratingRandoms\\GeneratingRandoms\\Program.cs",
+              "RelativeDocumentMoniker": "GeneratingRandoms\\Program.cs",
+              "ToolTip": "D:\\courses\\C#(ITI)\\GeneratingRandoms\\GeneratingRandoms\\Program.cs",
+              "RelativeToolTip": "GeneratingRandoms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:25:41.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

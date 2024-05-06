@@ -1,0 +1,14 @@
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\bin\Debug\net8.0\GeneratingRandoms.exe
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\bin\Debug\net8.0\GeneratingRandoms.deps.json
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\bin\Debug\net8.0\GeneratingRandoms.runtimeconfig.json
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\bin\Debug\net8.0\GeneratingRandoms.dll
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\bin\Debug\net8.0\GeneratingRandoms.pdb
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.AssemblyInfoInputs.cache
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.AssemblyInfo.cs
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.csproj.CoreCompileInputs.cache
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.dll
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\refint\GeneratingRandoms.dll
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.pdb
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\GeneratingRandoms.genruntimeconfig.cache
+D:\courses\C#(ITI)\GeneratingRandoms\GeneratingRandoms\obj\Debug\net8.0\ref\GeneratingRandoms.dll
