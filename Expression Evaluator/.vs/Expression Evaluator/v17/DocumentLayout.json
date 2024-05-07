@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|d:\\courses\\c# .net\\c# .net\\practices\\expression evaluator\\expression evaluator\\expressionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|solutionrelative:expression evaluator\\expressionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|d:\\courses\\c# .net\\c# .net\\practices\\expression evaluator\\expression evaluator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|solutionrelative:expression evaluator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|d:\\courses\\c# .net\\c# .net\\practices\\expression evaluator\\expression evaluator\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|solutionrelative:expression evaluator\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|d:\\courses\\c# .net\\c# .net\\practices\\expression evaluator\\expression evaluator\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC8EEF0-3017-4833-93CB-1C4B412080A3}|Expression Evaluator\\Expression Evaluator.csproj|solutionrelative:expression evaluator\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 886,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpressionParser.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\ExpressionParser.cs",
+              "RelativeDocumentMoniker": "Expression Evaluator\\ExpressionParser.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\ExpressionParser.cs",
+              "RelativeToolTip": "Expression Evaluator\\ExpressionParser.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAtwDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:00:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathOperation.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\MathOperation.cs",
+              "RelativeDocumentMoniker": "Expression Evaluator\\MathOperation.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\MathOperation.cs",
+              "RelativeToolTip": "Expression Evaluator\\MathOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:57:59.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathExpression.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\MathExpression.cs",
+              "RelativeDocumentMoniker": "Expression Evaluator\\MathExpression.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\MathExpression.cs",
+              "RelativeToolTip": "Expression Evaluator\\MathExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:56:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\Program.cs",
+              "RelativeDocumentMoniker": "Expression Evaluator\\Program.cs",
+              "ToolTip": "D:\\courses\\c# .net\\C# .NET\\practices\\Expression Evaluator\\Expression Evaluator\\Program.cs",
+              "RelativeToolTip": "Expression Evaluator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:37:20.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

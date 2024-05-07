@@ -1,0 +1,15 @@
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.AssemblyInfoInputs.cache
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.AssemblyInfo.cs
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.csproj.CoreCompileInputs.cache
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.sourcelink.json
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\bin\Debug\net8.0\Expression Evaluator.exe
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\bin\Debug\net8.0\Expression Evaluator.deps.json
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\bin\Debug\net8.0\Expression Evaluator.runtimeconfig.json
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\bin\Debug\net8.0\Expression Evaluator.dll
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\bin\Debug\net8.0\Expression Evaluator.pdb
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.dll
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\refint\Expression Evaluator.dll
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.pdb
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\Expression Evaluator.genruntimeconfig.cache
+D:\courses\c# .net\C# .NET\practices\Expression Evaluator\Expression Evaluator\obj\Debug\net8.0\ref\Expression Evaluator.dll
